@@ -1,0 +1,27 @@
+/.phpunit.cache
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.production
+.phpactor.json
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.fleet
+/.idea
+/.vscode
+# 機密情報ファイル
+storage/Google_Gemini.json
+
+# その他の一般的な除外ファイル
+.DS_Store
+storage/Google_Gemini.json
+storage/Google_Gemini.json
